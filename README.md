@@ -1,5 +1,8 @@
 Based on Jenkins LTS release 1.565.1
 
+Download from:
+https://sourceforge.net/projects/myjenkins/files/myjenkins/
+
 Plugins installed besides bundled with orginal 1.565.1 LTS release.
 
 <table>
