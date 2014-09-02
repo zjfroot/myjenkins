@@ -1,0 +1,1 @@
+Based on Jenkins LTS release 1.565.1
